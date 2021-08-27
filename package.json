@@ -1,0 +1,27 @@
+{
+  "name": "puzzle-carousel-server",
+  "version": "1.0.0",
+  "description": "A JSON serving server for the puzzle-carousel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasellis/puzzle-carousel-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasellis/puzzle-carousel-server/issues"
+  },
+  "homepage": "https://github.com/tomasellis/puzzle-carousel-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0"
+  }
+}

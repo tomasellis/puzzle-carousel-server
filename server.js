@@ -14,9 +14,9 @@ app.get("/", (req, res) => {
     {
       title: "First Block",
       images: [
-        "https://amordeimagenes.com/wp-content/uploads/2018/04/fondo-para-celular-de-paisaje.jpg",
-        "https://scontent.fepa6-1.fna.fbcdn.net/v/t1.18169-9/10395858_741931525897337_3679903556792072086_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=VlTEOwXytKUAX9kAxXZ&tn=oAERc59CPgo4pxMT&_nc_ht=scontent.fepa6-1.fna&oh=c1b3ade592067436177117d68e23d55b&oe=614EFF42",
-        "https://scontent.fepa6-1.fna.fbcdn.net/v/t1.18169-9/10888407_741931562564000_3183665675970186954_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=SHzWPavCnq8AX9UfR0a&tn=oAERc59CPgo4pxMT&_nc_ht=scontent.fepa6-1.fna&oh=607d81277682a82410c7a0110505f51b&oe=614FB1D2",
+        "https://i.imgur.com/1l1Qce5.jpeg",
+        "https://i.imgur.com/YsEWQNs.jpeg",
+        "https://i.imgur.com/oFo4k8v.jpeg",
       ],
     },
     {
@@ -32,23 +32,23 @@ app.get("/", (req, res) => {
       images: [
         "https://www.xtrafondos.com/wallpapers/vertical/paisaje-digital-en-atardecer-5846.jpg",
         "https://i.pinimg.com/originals/34/1d/40/341d40aac32a9a9ddc6e9550690efceb.png",
-        "https://archzine.es/wp-content/uploads/2019/07/cielo-monta%C3%B1a-cumbre-cesped-verde-paisajes-de-america-del-sur-luna-estrellas-fondos-de-pantalla-ordenador-telefono-descargables.jpeg",
+        "https://i.imgur.com/TlEE4vf.jpeg",
       ],
     },
     {
       title: "Fourth Block",
       images: [
-        "https://amordeimagenes.com/wp-content/uploads/2018/04/fondo-para-celular-de-paisaje.jpg",
-        "https://scontent.fepa6-1.fna.fbcdn.net/v/t1.18169-9/10395858_741931525897337_3679903556792072086_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=VlTEOwXytKUAX9kAxXZ&tn=oAERc59CPgo4pxMT&_nc_ht=scontent.fepa6-1.fna&oh=c1b3ade592067436177117d68e23d55b&oe=614EFF42",
-        "https://scontent.fepa6-1.fna.fbcdn.net/v/t1.18169-9/10888407_741931562564000_3183665675970186954_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=SHzWPavCnq8AX9UfR0a&tn=oAERc59CPgo4pxMT&_nc_ht=scontent.fepa6-1.fna&oh=607d81277682a82410c7a0110505f51b&oe=614FB1D2",
+        "https://i.imgur.com/ssurGSJ.jpeg",
+        "https://i.imgur.com/snnXPfI.jpeg",
+        "https://i.imgur.com/wTyPAvV.jpeg ",
       ],
     },
     {
       title: "Fifth Block",
       images: [
         "https://i.imgur.com/d45dJdx.jpeg",
-        "https://i.imgur.com/d45dJdx.jpeg",
-        "https://i.imgur.com/d45dJdx.jpeg",
+        "https://i.imgur.com/Rfj76TM.jpeg",
+        "https://i.imgur.com/Imbmcky.jpeg",
       ],
     },
     {
